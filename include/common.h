@@ -6,3 +6,5 @@
 
 #include <windows.h>
 #include <winldap.h>
+
+#include <pugixml/src/pugixml.hpp>
